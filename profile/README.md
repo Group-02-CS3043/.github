@@ -1,6 +1,6 @@
 # Welcome to Aspire Trust
 
-![Logo](Aspire_Trust.png) 
+![Logo](https://github.com/Group-02-CS3043/.github/blob/main/profile/Aspire_Trust.png) 
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Group-02-CS3043/AspireTrust)
 ![GitHub contributors](https://img.shields.io/github/contributors/Group-02-CS3043/AspireTrust)

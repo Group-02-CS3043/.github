@@ -37,18 +37,18 @@
 ## Documentation
 
 ### Project Proposal
-- [Proposal](../Docs/Project%20Description%201.pdf)
+- [Proposal](https://github.com/Group-02-CS3043/.github/blob/main/Docs/Project%20Description%201.pdf)
 
 ### Software Requirement Specification
-- [Software Requirement Specification](../Docs/SoftwareRequirementSpecifiactionOverview.md)
+- [Software Requirement Specification](https://github.com/Group-02-CS3043/.github/blob/main/Docs/SoftwareRequirementSpecifiactionOverview.md)
 > [!TIP]
-> Complete SRS can be found in [here](../Docs/Group%202%20-%20SRS%20for%20Bank%20Transaction%20and%20Loan%20Processing%20System.pdf)
+> Complete SRS can be found in [here](https://github.com/Group-02-CS3043/.github/blob/main/Docs/Group%202%20-%20SRS%20for%20Bank%20Transaction%20and%20Loan%20Processing%20System.pdf)
 
 ### Database Design
-- [Database Design](../Docs/DatabaseStructure.md)
+- [Database Design](https://github.com/Group-02-CS3043/.github/blob/main/Docs/DatabaseStructure.md)
 
 > [!TIP]
-> Complete Database Design can be found in [here](../Docs/GROUP%202%20-%20ER%20DIAGRAM.pdf)
+> Complete Database Design can be found in [here](https://github.com/Group-02-CS3043/.github/blob/main/Docs/GROUP%202%20-%20ER%20DIAGRAM.pdf)
 
 
 
